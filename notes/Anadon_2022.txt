@@ -10,6 +10,8 @@
    scATAC-seq works on nucleus.
    scRNA-seq works on all transcripts from nucleus and cytoplasm (ˈsīdəˌplazəm, 细胞质).
 
+6.
+
 
 TRM-like cells: tissue-resident memory-like cells
 TIL: tumor-infiltrating lymphocytes
