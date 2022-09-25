@@ -1,0 +1,17 @@
+1. Single-cell RNA/TCR/ATAC
+
+2. Ovarian cancer immunogenicity 
+
+3. scRNA-seq and VDJ profiles TIL heterogeneity.
+
+4. 验证Multiome profiles reveal a trajectory of differentiation from TRM-stem cells to TRM-exh TILs.
+
+5. snRNA-seq works on nucleus [ˈn(y)o͞oklēəs, 核;核心;核子;].
+   scATAC-seq works on nucleus.
+   scRNA-seq works on all transcripts from nucleus and cytoplasm (ˈsīdəˌplazəm, 细胞质).
+
+
+TRM-like cells: tissue-resident memory-like cells
+TIL: tumor-infiltrating lymphocytes
+
+trogocytosis: 吞噬作用
