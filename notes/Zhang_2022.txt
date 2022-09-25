@@ -1,0 +1,2 @@
+1. A good example comparing between paried multi-omics assays (snRNAseq + snATACseq) and multiome assays (sn multiome)
+2. Pituitary: pəˈt(y)o͞oəˌterē, [n] 垂体, 脑下垂体; [a] 粘液的
