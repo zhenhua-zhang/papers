@@ -3,5 +3,4 @@ docfile: docsdir://Anadon_2022a.pdf
 tags: !!set
     \: null
     multiome: null
-    'protocol ': null
     supplementary: null
