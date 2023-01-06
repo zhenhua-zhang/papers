@@ -1,0 +1,3 @@
+GCTA and LDSC assumed that each SNP is expected to contribute equal heratibility, while the expected heritability varies with bothe LD and MAF.
+When condsidering LD and MAF, GCTA-LDMS-I model, S-LDSC, and LDAK were implemented.
+GCTA-LDMS-I model partitions the GCTA model based on MAF and LD.
