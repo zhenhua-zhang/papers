@@ -3,3 +3,4 @@ docfile: docsdir://Zhou2018Efficiently.pdf
 tags: !!set
     burder_test: null
     gwas: null
+    lmm: null
