@@ -3,3 +3,4 @@ docfile: docsdir://Mbatchou2021Computationally.pdf
 tags: !!set
     burden_test: null
     gwas: null
+    lmm: null
